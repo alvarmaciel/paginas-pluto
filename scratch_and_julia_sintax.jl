@@ -5,7 +5,14 @@ using Markdown
 using InteractiveUtils
 
 # ╔═╡ ab5e05cd-840c-4133-8808-b883c4f3a69e
-using PlutoUI
+begin
+    import Pkg
+    Pkg.activate(mktempdir())
+    Pkg.add([
+        Pkg.PackageSpec(name="PlutoUI", version="0.7"),
+    ])
+    using PlutoUI
+end
 
 # ╔═╡ 74499a68-c58c-11eb-278e-478d05fe686e
 md"""
