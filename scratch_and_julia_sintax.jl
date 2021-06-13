@@ -16,13 +16,18 @@ end
 
 # ╔═╡ 7987cc38-f28d-4ee4-8a1c-738ecc5f81da
 md"""
-> Pruebas de Notebook Reactiva en Julia
+!!! hint "Si querés interactuar con esta página"
+
 Para usar la notebook hacé click en el botón 
 
 ![](https://alvarmaciel.github.io/paginas-pluto/assets/img/edit.png)
-y luego en
+
+y luego en el botón Binder
 
 ![](https://alvarmaciel.github.io/paginas-pluto/assets/img/binder.png)
+
+>Toma un rato en cargar todo, pero con estos dos pasos se peude uasr la notebook
+
 """
 
 # ╔═╡ 74499a68-c58c-11eb-278e-478d05fe686e
