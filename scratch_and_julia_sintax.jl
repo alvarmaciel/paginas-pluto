@@ -14,6 +14,17 @@ begin
     using PlutoUI
 end
 
+# ╔═╡ 7987cc38-f28d-4ee4-8a1c-738ecc5f81da
+md"""
+> Pruebas de Notebook Reactiva en Julia
+Para usar la notebook hacé click en el botón 
+
+![](https://alvarmaciel.github.io/paginas-pluto/assets/img/edit.png)
+y luego en
+
+![](https://alvarmaciel.github.io/paginas-pluto/assets/img/binder.png)
+"""
+
 # ╔═╡ 74499a68-c58c-11eb-278e-478d05fe686e
 md"""
 # Scratch and Julia syntax 
@@ -42,7 +53,7 @@ En Julia es necesario rodear los Strings o cualquier texto con comillas smples (
 
 # ╔═╡ c694ee4f-bcb0-4fd5-9fe7-c011523fd864
 md"""
-Corregí la variable `texto` para que sea un string
+Corregí la variable `bienvenida` para que sea un string
 """
 
 # ╔═╡ 0bbbe9f5-4870-4d11-886f-84aae2cc2cbd
@@ -121,7 +132,8 @@ end
 """
 
 # ╔═╡ Cell order:
-# ╠═ab5e05cd-840c-4133-8808-b883c4f3a69e
+# ╟─ab5e05cd-840c-4133-8808-b883c4f3a69e
+# ╟─7987cc38-f28d-4ee4-8a1c-738ecc5f81da
 # ╟─74499a68-c58c-11eb-278e-478d05fe686e
 # ╟─71935899-12a3-4ad4-9084-b8b8f7a3c720
 # ╟─0af4e606-09c5-4a6c-b4be-9c202058e192
