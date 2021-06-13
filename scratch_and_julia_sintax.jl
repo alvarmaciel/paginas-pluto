@@ -18,7 +18,7 @@ end
 md"""
 !!! hint "Si querés interactuar con esta página"
 
-Para usar la notebook hacé click en el botón 
+Para usar la notebook hacé click en el botón arriba a la derecha
 
 ![](https://alvarmaciel.github.io/paginas-pluto/assets/img/edit.png)
 
@@ -138,7 +138,7 @@ end
 
 # ╔═╡ Cell order:
 # ╟─ab5e05cd-840c-4133-8808-b883c4f3a69e
-# ╟─7987cc38-f28d-4ee4-8a1c-738ecc5f81da
+# ╠═7987cc38-f28d-4ee4-8a1c-738ecc5f81da
 # ╟─74499a68-c58c-11eb-278e-478d05fe686e
 # ╟─71935899-12a3-4ad4-9084-b8b8f7a3c720
 # ╟─0af4e606-09c5-4a6c-b4be-9c202058e192
