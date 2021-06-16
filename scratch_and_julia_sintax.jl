@@ -162,6 +162,13 @@ end
 ```
 """
 
+# ╔═╡ f8e19d35-cb0c-4188-bd0f-ec298a493c1b
+md"""
+Estos texts/imagenes/videos fueron creados en base al material de Raspberry Pi Foundation y están bajo la licencia [Open Government Licence v3.0.](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+
+This text/image/video was created by the Raspberry Pi Foundation and is licensed under the [Open Government Licence v3.0.](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+"""
+
 # ╔═╡ Cell order:
 # ╟─ad530bb1-78bb-40a3-93c6-adec42207417
 # ╟─ab5e05cd-840c-4133-8808-b883c4f3a69e
@@ -181,3 +188,4 @@ end
 # ╟─fb03bd9c-ed6c-48a5-a3cd-08a4af5b405a
 # ╠═1e9e7329-bcf0-4b72-a4c6-d13276d9577f
 # ╟─77c8a723-499e-478d-a519-49b7274ad179
+# ╠═f8e19d35-cb0c-4188-bd0f-ec298a493c1b
