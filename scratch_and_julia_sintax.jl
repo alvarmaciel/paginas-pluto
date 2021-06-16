@@ -164,7 +164,8 @@ end
 
 # ╔═╡ f8e19d35-cb0c-4188-bd0f-ec298a493c1b
 md"""
-Estos texts/imagenes/videos fueron creados en base al material de Raspberry Pi Foundation y están bajo la licencia [Open Government Licence v3.0.](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+# Creditos y Licencia
+Estos textos/imagenes/videos fueron creados en base al material de Raspberry Pi Foundation y están bajo la licencia [Open Government Licence v3.0.](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 This text/image/video was created by the Raspberry Pi Foundation and is licensed under the [Open Government Licence v3.0.](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 """
@@ -188,4 +189,4 @@ This text/image/video was created by the Raspberry Pi Foundation and is licensed
 # ╟─fb03bd9c-ed6c-48a5-a3cd-08a4af5b405a
 # ╠═1e9e7329-bcf0-4b72-a4c6-d13276d9577f
 # ╟─77c8a723-499e-478d-a519-49b7274ad179
-# ╠═f8e19d35-cb0c-4188-bd0f-ec298a493c1b
+# ╟─f8e19d35-cb0c-4188-bd0f-ec298a493c1b
