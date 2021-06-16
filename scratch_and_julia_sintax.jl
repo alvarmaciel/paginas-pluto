@@ -41,7 +41,7 @@ md"""
 
 # ╔═╡ 0af4e606-09c5-4a6c-b4be-9c202058e192
 md"""
-![](https://rpf-futurelearn.s3-eu-west-1.amazonaws.com/block-to-text2/Screenshots/fl-b2t-w1-step06-variableassignment.png)
+![](assets/img/puntosBienvendia.png)
 """
 
 # ╔═╡ 7987cc38-f28d-4ee4-8a1c-738ecc5f81da
@@ -116,7 +116,7 @@ md"""
 - En Julia, nececitan usar comillas simples o dobles para imprimer texto.
 - En las notebooks interactivas como esta (PlutoJl) la salida de las sentencias ```print``` y ```println``` se visualizan en el REPL. Para visaulizar una salida en PlutoJl con solo enunciar la variable, la celda mostrará su valor.
 
-![](https://rpf-futurelearn.s3-eu-west-1.amazonaws.com/block-to-text2/Screenshots/fl-b2t-w1-step06-simpleoutput.png)
+![](assets/img/puntajePuntos.png)
 
 En julia se escribe:
 ``` julia
@@ -154,7 +154,7 @@ md"""
 - La estructura de repetición condicional en Scratch es repetir **hasta** que cieta condición es Verdadera.
 - La repetición condicional en Julia, repite **mientras**  cierta condición sea Verdadera.
 - Pueden observar que el código dentro de la repetición está identado, La identación no es necesaria en Julia pero se recomienda. Se usan 4 espacios o un tab. Esto puede compararse a la forma en la que la los bloques de repeteción de Scratch encapsulan el código dentro de él.
-![](https://rpf-futurelearn.s3-eu-west-1.amazonaws.com/block-to-text2/Screenshots/fl-b2t-w1-step06-conditionalloop.png)
+![](assets/img/repetirHasta.png)
 ``` julia
 while puntos < 10
 	print(playing)
@@ -188,5 +188,5 @@ This text/image/video was created by the Raspberry Pi Foundation and is licensed
 # ╟─553e2e22-9b56-42ce-8f5a-4676c9faf024
 # ╟─fb03bd9c-ed6c-48a5-a3cd-08a4af5b405a
 # ╠═1e9e7329-bcf0-4b72-a4c6-d13276d9577f
-# ╟─77c8a723-499e-478d-a519-49b7274ad179
+# ╠═77c8a723-499e-478d-a519-49b7274ad179
 # ╟─f8e19d35-cb0c-4188-bd0f-ec298a493c1b
