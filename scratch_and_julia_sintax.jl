@@ -187,6 +187,6 @@ This text/image/video was created by the Raspberry Pi Foundation and is licensed
 # ╟─0a6df781-6bef-4955-bb8d-75a99fd5f09c
 # ╟─553e2e22-9b56-42ce-8f5a-4676c9faf024
 # ╟─fb03bd9c-ed6c-48a5-a3cd-08a4af5b405a
-# ╠═1e9e7329-bcf0-4b72-a4c6-d13276d9577f
-# ╠═77c8a723-499e-478d-a519-49b7274ad179
+# ╟─1e9e7329-bcf0-4b72-a4c6-d13276d9577f
+# ╟─77c8a723-499e-478d-a519-49b7274ad179
 # ╟─f8e19d35-cb0c-4188-bd0f-ec298a493c1b
