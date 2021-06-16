@@ -37,7 +37,7 @@ md"""## Asignación de variables
 
 # ╔═╡ 71935899-12a3-4ad4-9084-b8b8f7a3c720
 md"""
-![](https://rpf-futurelearn.s3-eu-west-1.amazonaws.com/block-to-text2/Screenshots/fl-b2t-w1-step06-createvar.png)"""
+![](assets/img/crearVariables.png)"""
 
 # ╔═╡ 0af4e606-09c5-4a6c-b4be-9c202058e192
 md"""
