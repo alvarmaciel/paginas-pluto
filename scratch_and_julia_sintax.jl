@@ -102,6 +102,7 @@ md"""
 
 - En Scratch, se puede aumentar o reducir el valor de una variable. Para hacer esto, se una un bloque _cambiar_ con la variable y el número a incrementar, y usamos un número negativo para reducir el valor.
 - Para aumentar o o reducir el valor de una variable en Julia, tienen que calcular el nuevo monto usando el valor guardado en la variable, y asignandole el nuevo vvalor a la variable.
+![](assets/img/sumarA.png)
 ``` julia
 puntos = puntos + 1
 ```
@@ -109,7 +110,7 @@ puntos = puntos + 1
 
 # ╔═╡ 553e2e22-9b56-42ce-8f5a-4676c9faf024
 md"""
-## Salida simple output
+## Salida simple
 
 - En Scratch, hacemos que un objeto hable para generar una salida al usuario del programa.
 - Julia usa las sentencias ```print``` y ```println``` para generar una salida de texto, números o simbolos.
@@ -137,7 +138,7 @@ end
 
 # ╔═╡ 1e9e7329-bcf0-4b72-a4c6-d13276d9577f
 begin
-	puntos = 42
+	puntos = 8
 	md""" 
 	En esta celda pueden ver el código. 
 	- Todo lo que está entre ```md``` y las comillas es texto. 
@@ -156,18 +157,44 @@ md"""
 - Pueden observar que el código dentro de la repetición está identado, La identación no es necesaria en Julia pero se recomienda. Se usan 4 espacios o un tab. Esto puede compararse a la forma en la que la los bloques de repeteción de Scratch encapsulan el código dentro de él.
 ![](assets/img/repetirHasta.png)
 ``` julia
-while puntos < 10
-	print(playing)
+while puntos <= 10
+	print("jugando")
 end
 ```
+"""
+
+# ╔═╡ a33d895b-34ba-468f-8366-40b069849041
+md"""
+## Repeticiones infinitas
+"""
+
+# ╔═╡ 0cba104c-627a-457c-8aeb-dfa938c5b467
+md"""
+## Estrucuturas Condicionales
+"""
+
+# ╔═╡ 31a22a9a-5ac0-4304-8e2a-104cea9407f2
+md"""
+## Pruebas de igualdad
+"""
+
+# ╔═╡ ca296a81-ce11-40d1-a5db-fd10329acfe1
+md"""
+# Desafío
 """
 
 # ╔═╡ f8e19d35-cb0c-4188-bd0f-ec298a493c1b
 md"""
 # Creditos y Licencia
-Estos textos/imagenes/videos fueron creados en base al material de Raspberry Pi Foundation y están bajo la licencia [Open Government Licence v3.0.](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+>Estos textos/imagenes/videos fueron creados en base al material de Raspberry Pi Foundation y están bajo la licencia [Open Government Licence v3.0.](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
-This text/image/video was created by the Raspberry Pi Foundation and is licensed under the [Open Government Licence v3.0.](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+>This text/image/video was created by the Raspberry Pi Foundation and is licensed under the [Open Government Licence v3.0.](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+"""
+
+# ╔═╡ cc1818e5-4608-4d06-aff9-76bf8dc41a54
+md"""
+!!! warning "Fuente:" 
+- [Scratch and Python syntax en ](https://www.futurelearn.com/courses/block-to-text-based-programming/13/steps/1129535) en [Scratch to Python: Moving from Block- to Text-based Programming](https://www.futurelearn.com/courses/block-to-text-based-programming)
 """
 
 # ╔═╡ Cell order:
@@ -187,6 +214,11 @@ This text/image/video was created by the Raspberry Pi Foundation and is licensed
 # ╟─0a6df781-6bef-4955-bb8d-75a99fd5f09c
 # ╟─553e2e22-9b56-42ce-8f5a-4676c9faf024
 # ╟─fb03bd9c-ed6c-48a5-a3cd-08a4af5b405a
-# ╟─1e9e7329-bcf0-4b72-a4c6-d13276d9577f
+# ╠═1e9e7329-bcf0-4b72-a4c6-d13276d9577f
 # ╟─77c8a723-499e-478d-a519-49b7274ad179
+# ╟─a33d895b-34ba-468f-8366-40b069849041
+# ╟─0cba104c-627a-457c-8aeb-dfa938c5b467
+# ╟─31a22a9a-5ac0-4304-8e2a-104cea9407f2
+# ╟─ca296a81-ce11-40d1-a5db-fd10329acfe1
 # ╟─f8e19d35-cb0c-4188-bd0f-ec298a493c1b
+# ╟─cc1818e5-4608-4d06-aff9-76bf8dc41a54
