@@ -165,22 +165,22 @@ end
 
 # ╔═╡ a33d895b-34ba-468f-8366-40b069849041
 md"""
-## Repeticiones infinitas
+## Repeticiones infinitas (en proceso)
 """
 
 # ╔═╡ 0cba104c-627a-457c-8aeb-dfa938c5b467
 md"""
-## Estrucuturas Condicionales
+## Estrucuturas Condicionales  (en proceso)
 """
 
 # ╔═╡ 31a22a9a-5ac0-4304-8e2a-104cea9407f2
 md"""
-## Pruebas de igualdad
+## Pruebas de igualdad  (en proceso)
 """
 
 # ╔═╡ ca296a81-ce11-40d1-a5db-fd10329acfe1
 md"""
-# Desafío
+# Desafío  (en proceso)
 """
 
 # ╔═╡ f8e19d35-cb0c-4188-bd0f-ec298a493c1b
