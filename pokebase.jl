@@ -4,8 +4,22 @@
 using Markdown
 using InteractiveUtils
 
-# ╔═╡ 04e50fc6-cfb0-11eb-236a-35b6c728359c
-using HTTP, JSON3
+# ╔═╡ 2fe2f106-b028-4821-94e4-2ecc2b995e14
+begin
+    import Pkg
+    # activate a clean environment
+    Pkg.activate(mktempdir())
+
+    Pkg.add([
+        Pkg.PackageSpec(name="HTTP"),
+        Pkg.PackageSpec(name="JSON3"),
+        # ... keep adding your packages
+    ])
+
+    using HTTP
+    using JSON3
+    # ... place all usings and imports into this one cell
+end
 
 # ╔═╡ f40fe198-e3d9-4095-a3fa-a0dedf273572
 j = JSON3.read(HTTP.get("https://pokeapi.co/api/v2/type/3").body)
@@ -26,7 +40,7 @@ j
 
 
 # ╔═╡ Cell order:
-# ╠═04e50fc6-cfb0-11eb-236a-35b6c728359c
+# ╠═2fe2f106-b028-4821-94e4-2ecc2b995e14
 # ╠═f40fe198-e3d9-4095-a3fa-a0dedf273572
 # ╠═7b86d6e7-b359-4f25-8bc3-ff76731bdfbd
 # ╠═55a39434-074c-4ef6-a724-6d7cbe07283a
